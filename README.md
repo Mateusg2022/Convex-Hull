@@ -31,8 +31,11 @@ O programa em C++ utiliza o algoritmo Graham Scan.
     ./convexhull
     python3 plot.py
     
--> Compila o programa principal (C++) e faz o plot do resultado (Python)
+Isso compila o programa principal (C++) e faz o plot do resultado (Python). Lembre-se de escrever os pontos no arquivo "input.txt" e manter um arquivo vazio "output.txt" para que o resultado seja salvo.
 
+<div align="center">
+<img src="https://github.com/Mateusg2022/Convex-Hull/assets/168873690/9b25c20b-45cf-40c0-909e-33535be07684" width="900px" />
+</div>
 
 **Bibliografia:**
 
