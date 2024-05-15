@@ -15,7 +15,7 @@ O programa em C++ utiliza o algoritmo Graham Scan.
     
     - Geometria Computacional: Pode ser usado para calcular o diâmetro de um conjunto de pontos.
     
-    - Detecção de Colisões: Pode ser usado para determinar quando dois objetos então colidindo. 
+    - Detecção de Colisões: Pode ser usado para determinar quando dois objetos estão colidindo. 
       Usado em computação gráfica e simulações.
 
 
