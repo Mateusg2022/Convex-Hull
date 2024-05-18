@@ -23,7 +23,6 @@ O programa em C++ utiliza o algoritmo Graham Scan.
 **Ambiente:** Notebook Acer i3 4gb RAM
           Linux Ubuntu
 
-
         
 **Compilação:**
 
