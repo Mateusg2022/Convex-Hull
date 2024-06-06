@@ -36,7 +36,7 @@ Isso compila o programa principal (C++) e faz o plot do resultado (Python). Lemb
 <img src="https://github.com/Mateusg2022/Convex-Hull/assets/168873690/9b25c20b-45cf-40c0-909e-33535be07684" width="900px" />
 </div>
 
-**Bibliografia:**
+**Material que eu utilizei:**
 
     - Computer Science Handbook
     
